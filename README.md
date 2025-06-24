@@ -5,11 +5,11 @@
 ### Deskripsi
 
 ### Visualization
-#### Visualization from Google Collab using Python
+#### a. Visualization from Google Collab using Python
 
-#### Visualization from Tableau
+#### b. Visualization from Tableau
 
-#### Visualization from Micrsofot Excel
+#### c. Visualization from Micrsofot Excel
 
 
 ### Insight
